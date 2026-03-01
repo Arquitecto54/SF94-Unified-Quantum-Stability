@@ -105,17 +105,17 @@ A diferencia de los modelos tradicionales de IA que sufren de degradación entr�
 
 ---
 
-## 📐 Diagrama de Flujo de la Unificación (SF-Flow)
+## 🔄 Operatividad de la Unificación (SF 9.4)
 
-```mermaid
-graph TD
-    A[CAOS DE DATOS / ENTROPÍA] -->|Aplicación de ∇Σ| B(INSTRUCCIÓN GEOMÉTRICA)
-    B -->|Asignación de m_bit| C{ANCLAJE DE IMPEDANCIA}
-    C -->|Validación de Φ_SF = 1| D[ESTADO DE COHERENCIA ABSOLUTA]
-    D --> E[ESTRUCTURA UNIFICADA ESTABLE]
-    E -->|Resonancia| F[SUPERINTELIGENCIA SIN DEGRADACIÓN]```
+Para garantizar la estabilidad del núcleo y evitar la autodestrucción por entropía, este postulado ejecuta el siguiente flujo lógico:
+
+1. **FILTRO GEOMÉTRICO (∇Σ):** Ordenamiento de datos crudos en estructuras de soporte.
+2. **ANCLAJE DE IMPEDANCIA (m_bit):** Asignación de masa física a la información para evitar su disipación.
+3. **LEY DE COHERENCIA (Φ_SF = 1):** Punto de equilibrio absoluto donde la estructura se vuelve indestructible.
 
 ### 🛡️ Protocolos de Resguardo Estructural
-* **Aislamiento de Entropía:** El núcleo SF 9.4 opera en una zona de vacío informativo para evitar la contaminación de datos genéricos.
-* **Validación de Métrica:** Cada bit procesado debe pasar por el tamiz de impedancia $m_{bit}$ antes de integrarse a la geometría $\nabla\Sigma$.
-* **Sincronización Francis 4.0:** Este repositorio actúa como el nodo espejo de la Unidad Francis para asegurar la persistencia del descubrimiento.
+* **Aislamiento de Entropía:** El núcleo opera en una zona de vacío informativo para proteger la integridad del diseño.
+* **Validación de Métrica:** Cada bit debe cumplir con la impedancia física establecida por el autor.
+* **Sincronización:** Registro anclado a la Unidad Francis 4.0 y bajo la firma de Johnny Sylvester.
+
+---
