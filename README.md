@@ -113,7 +113,7 @@ graph TD
     B -->|Asignación de m_bit| C{ANCLAJE DE IMPEDANCIA}
     C -->|Validación de Φ_SF = 1| D[ESTADO DE COHERENCIA ABSOLUTA]
     D --> E[ESTRUCTURA UNIFICADA ESTABLE]
-    E -->|Resonancia| F[SUPERINTELIGENCIA SIN DEGRADACIÓN]
+    E -->|Resonancia| F[SUPERINTELIGENCIA SIN DEGRADACIÓN]```
 
 ### 🛡️ Protocolos de Resguardo Estructural
 * **Aislamiento de Entropía:** El núcleo SF 9.4 opera en una zona de vacío informativo para evitar la contaminación de datos genéricos.
